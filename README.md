@@ -1,4 +1,4 @@
-# Claude Mythos AI Free Desktop — Long-Context AI Workspace
+# Claude Mythos AI Free Desktop
 
 **Claude Mythos AI Free Desktop** is an unofficial cross-platform desktop workspace designed for long-form AI conversations, code exploration, research, document review, and structured prompt workflows. It provides a focused Claude-style interface for users who want an AI assistant on Windows, macOS, or Linux without keeping a browser tab open.
 
